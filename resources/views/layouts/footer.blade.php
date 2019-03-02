@@ -7,7 +7,7 @@
       </a>
       <a href="" target="_blank" class="w-inline-block soc-link"><img width="43" src="assets/img/logoarce_envelope.svg" class="tweet-icon">
       </a>
-      <a href="tel:7 499 705 89 80" target="_blank" class="w-inline-block soc-link"><img width="43" src="assets/img/logoarce_phone.svg" class="tweet-icon">
+      <a href="tel:7 (495) 924-83-36" target="_blank" class="w-inline-block soc-link"><img width="43" src="assets/img/logoarce_phone.svg" class="tweet-icon">
       </a>
     </div>
   </div>

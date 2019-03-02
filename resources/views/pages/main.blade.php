@@ -203,12 +203,6 @@
     </div>
     <div data-animation="cross" data-duration="2000" data-infinite="1" data-delay="9000" data-autoplay="1" class="w-slider hero-slider main1">
       <div class="w-slider-mask mask main">
-        <div class="w-slide slide-photo-1 vacancy main">
-          <div data-ix="new-interaction" class="w-container hero-container slider-1">
-            <h1 data-ix="fade-in-bottom-page-loads" class="hero-heading"><br>Превращаем контакты в клиентов!</h1><img src="assets/img/line_gray.svg" data-ix="fade-in-bottom-page-loads" class="hero-line">
-            <div data-ix="fade-in-bottom-page-loads" class="hero-subheading">Профессиональные услуги в сфере продаж и маркетинга</div>
-          </div>
-        </div>
         <div class="w-slide slide-3">
           <div data-ix="new-interaction" class="w-container hero-container slider-1">
             <h1 data-ix="fade-in-bottom-page-loads" class="hero-heading main"><br>Превращаем контакты в клиентов!</h1><img src="assets/img/line_gray.svg" data-ix="fade-in-bottom-page-loads" class="hero-line">
@@ -228,29 +222,14 @@
     </div>
   </div>
   <div id="about-section" class="w-section about-section">
-    <div class="heading">
-      <h2 id="vacancy" class="section-heading centered h2">ПРОФЕССИОНАЛЬНЫЙ АУТСОРСИНГОВЫЙ КОНТАКТНЫЙ ЦЕНТР</h2><img width="400" src="assets/img/line_gray.svg" class="line-img">
-      <div class="about">
-        <div class="w-row about-row">
-          <div data-ix="fade-in-downscroll-in" class="w-col w-col-6 w-col-stack col1"></div>
-          <div class="w-col w-col-6 w-col-stack col2">
-            <div class="centered">
-              <p class="about-text">
-                <br>Global Business Development– надежный аутсорсинговый партнер ведущих российских и международных компаний. На сегодняшний день в&nbsp;GBD&nbsp;сontact&nbsp;сenter&nbsp;работает&nbsp;более 1000 сотрудников, обслуживающих клиентов&nbsp;со всего мира на более чем десяти языках.
-                <br>&nbsp;&nbsp;&nbsp;&nbsp;С 2010 года мы делаем клиентский сервис надежным и простым, во многом благодаря доверительным и высокопрофессиональным отношениям с нашими Заказчиками. Каждый проект, независимо от его масштабов, является частью нашего большого дела, над которым работает квалифицированная команда специалистов.
-                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Мы всегда открыты для инноваций и рады сотрудничеству с профессионалами.
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <!--<br><span class="autor">С уважением, учредитель ARCE contact center<br xmlns="http://www.w3.org/1999/xhtml">Олег Мирошниченко<br></span>-->
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
+    <div class="about__item__1">
+    <h2 class="about__item__h2">ПРОФЕССИОНАЛЬНЫЙ АУТСОРСИНГОВЫЙ <br> КОНТАКТНЫЙ ЦЕНТР</h2>
+    <img width="400" src="assets/img/line_gray.svg" class="line-img">
+    </div>
+    <div class="about__item__2">
+      <p class="about__item__p">Global Business Development– надежный аутсорсинговый партнер ведущих российских и международных компаний. На сегодняшний день в GBD сontact сenter работает более 1000 сотрудников, обслуживающих клиентов со всего мира на более чем десяти языках. 
+   <br><br> С 2010 года мы делаем клиентский сервис надежным и простым, во многом благодаря доверительным и высокопрофессиональным отношениям с нашими Заказчиками. Каждый проект, независимо от его масштабов, является частью нашего большого дела, над которым работает квалифицированная команда специалистов. 
+   <br><br>  Мы всегда открыты для инноваций и рады сотрудничеству с профессионалами.</p>
     </div>
   </div>
   <div id="services" class="w-section section scills">

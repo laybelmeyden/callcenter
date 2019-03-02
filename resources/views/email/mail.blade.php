@@ -2,13 +2,14 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>pogozhev.ru</title>
+    <title>GDB</title>
   </head>
   <body>
-    <h1>Сообщение с сайта</h1>
-    Имя - {{ $p1 }} <br />
+    <h1>Сообщение с сайта GBD</h1>
+    Имя - {{ $name }} <br />
+    Телефон - {{ $phone }} <br />
     Почта - {{ $email }} <br />
-    Сообщение - {{ $p2 }}
+    Сообщение - {{ $field }}
     
   </body>
 </html>

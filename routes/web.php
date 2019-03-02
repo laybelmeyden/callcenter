@@ -14,7 +14,7 @@
 
 
 Route::get('/', 'MainController@main');
-
+Route::get('/vakanci', 'MainController@vakanci');
 
 Route::post('/form', 'MainController@form');
 

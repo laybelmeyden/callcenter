@@ -2,11 +2,11 @@
 <html>
 
 <head>
-  <title></title>
+  <title>Global Business Development</title>
   <!--meta-->
   <meta charset="UTF-8">
-  <meta name="description" content=""/>
-  <META NAME="keywords" CONTENT="">
+  <meta name="description" content="Global Business Development"/>
+  <META NAME="keywords" CONTENT="Global Business Development">
   <META NAME="AUTHOR" CONTENT="https://vk.com/glrlcocks">
   <meta name="revisit-after" content="5 days">
   <meta name="csrf-token" content="{{ csrf_token() }}">

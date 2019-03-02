@@ -207,7 +207,7 @@ p {
   padding-bottom: 16px;
   border-bottom: 1px none rgba(142, 142, 156, 0.81);
   color: white;
-  font-size: 71px;
+  font-size: 36px;
   line-height: 70px;
   font-weight: 400;
   text-align: center;
@@ -256,11 +256,25 @@ p {
   border-color: #00aeef;
   color: #00aeef;
 }
+.alert-success{
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    top: 0;
+    z-index: 23;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 600;
+    background-color: rgb(239, 239, 239);
+}
 .hollow-button.all-caps {
   position: absolute;
   left: 0px;
   right: 0px;
-  bottom: -37px;
+  bottom: -27px;
   z-index: 10000;
   display: inline;
   overflow-x: hidden;
@@ -268,7 +282,7 @@ p {
   width: 70px;
   height: 70px;
   margin: -13px auto;
-  padding-top: 29px;
+  padding-top: 39px;
   padding-left: 9px;
   border-style: none;
   border-color: white;
@@ -302,15 +316,7 @@ p {
   transition-timing-function: ease;
   color: white;
 }
-.hollow-button.all-caps.w--current {
-  position: relative;
-  left: 0px;
-  top: auto;
-  right: 0px;
-  bottom: 0px;
-  display: block;
-  margin-top: auto;
-}
+
 .hollow-button.all-caps.close {
   position: relative;
   left: 58px;
@@ -1201,8 +1207,10 @@ p {
   display: inline-block;
   overflow-x: hidden;
   overflow-y: hidden;
+  transition: opacity 0ms ease 0s !important;
 }
 .logo-main-2 {
+  transition: opacity 0ms ease 0s !important;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -1219,7 +1227,7 @@ p {
 .link-logo-main {
   position: absolute;
   left: 0px;
-  top: 12%;
+  top: 0;
   right: 0px;
   z-index: 40000;
   display: block;
@@ -1310,9 +1318,12 @@ p {
 .mask.main {
   width: 100%;
 }
+.w-nav{
+  z-index:99999;
+}
 .link-up {
   position: fixed;
-  right: 6px;
+  right: 10px;
   bottom: 6px;
   z-index: 30000;
   display: block;

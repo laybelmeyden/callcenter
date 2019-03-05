@@ -227,9 +227,11 @@
     <img width="400" src="assets/img/line_gray.svg" class="line-img">
     </div>
     <div class="about__item__2">
-      <p class="about__item__p">Global Business Development– надежный аутсорсинговый партнер ведущих российских и международных компаний. На сегодняшний день в GBD сontact сenter работает более 1000 сотрудников, обслуживающих клиентов со всего мира на более чем десяти языках. 
-   <br><br> С 2010 года мы делаем клиентский сервис надежным и простым, во многом благодаря доверительным и высокопрофессиональным отношениям с нашими Заказчиками. Каждый проект, независимо от его масштабов, является частью нашего большого дела, над которым работает квалифицированная команда специалистов. 
-   <br><br>  Мы всегда открыты для инноваций и рады сотрудничеству с профессионалами.</p>
+      <p class="about__item__p">Global Business Development– надежный аутсорсинговый партнер ведущих российских и международных компаний. <br><br>
+
+Мы делаем клиентский сервис надежным и простым, во многом благодаря доверительным и высокопрофессиональным отношениям с нашими Заказчиками. Каждый проект, независимо от его масштабов, является частью нашего большого дела, над которым работает квалифицированная команда специалистов. 
+
+<br><br>Мы всегда открыты для инноваций и рады сотрудничеству с профессионалами.</p>
     </div>
   </div>
   <div id="services" class="w-section section scills">
@@ -240,34 +242,44 @@
         <div class="w-slide">
           <div class="w-row row-wins">
             <div data-ix="fade-in-right-scroll-in" class="w-col w-col-4 column1">
-              <a href="#" data-ix="madal-info" class="w-inline-block info"><img width="50" src="assets/img/info.svg" class="img">
+              <!--href="#" data-ix="madal-info" -->
+              <span class="w-inline-block info"><img width="50" src="assets/img/info.svg" class="img">
                 <div class="text">Комплексные маркетинговые услуги</div>
-              </a><a href="#" data-ix="madal-info" class="btn">подробнее &gt;</a>
+              </span>
+              <!--<a href="#" data-ix="madal-info" class="btn">подробнее &gt;</a>-->
             </div>
             <div data-ix="fade-in-bottom-scroll-in" class="w-col w-col-4 column1">
-              <a href="#" data-ix="modal-shop" class="w-inline-block info"><img width="50" src="assets/img/cart.svg" class="img">
+              <!--href="#" data-ix="modal-shop"-->
+              <span class="w-inline-block info"><img width="50" src="assets/img/cart.svg" class="img">
                 <div class="text">Продажа информационных и образовательных услуг</div>
-              </a><a href="#" data-ix="modal-shop" class="btn">подробнее &gt;</a>
+              </span>
+              <!--<a href="#" data-ix="modal-shop" class="btn">подробнее &gt;</a>-->
             </div>
             <div data-ix="fade-in-left-scroll-in" class="w-col w-col-4 column1">
-              <a href="#" data-ix="madal-phone-shop" class="w-inline-block info"><img width="50" src="assets/img/cart.svg" class="img">
+              <!--href="#" data-ix="madal-phone-shop"-->
+              <span class="w-inline-block info"><img width="50" src="assets/img/cart.svg" class="img">
                 <div class="text">Продажа потребительских товаров и товарных групп</div>
-              </a><a href="#" data-ix="madal-phone-shop" class="btn">подробнее &gt;</a>
+              </span>
+              <!--<a href="#" data-ix="madal-phone-shop" class="btn">подробнее &gt;</a>-->
             </div>
           </div>
         </div>
         <div class="w-slide">
           <div class="w-row row-wins">
             <div class="w-col w-col-4 column1">
-              <a href="#" data-ix="madal-database" class="w-inline-block info"><img width="50" src="assets/img/database.svg" class="img">
+              <!--href="#" data-ix="madal-database"-->
+              <span class="w-inline-block info"><img width="50" src="assets/img/database.svg" class="img">
                 <div class="text">Проработка и АКТУАЛИЗАЦИЯ&nbsp;
                   <br>БАЗ ДАННЫХ</div>
-              </a><a href="#" data-ix="madal-database" class="btn">подробнее &gt;</a>
+              </span>
+              <!--<a href="#" data-ix="madal-database" class="btn">подробнее &gt;</a>-->
             </div>
             <div class="w-col w-col-4 column1">
-              <a href="#" data-ix="madal-infoline" class="w-inline-block info"><img width="50" src="assets/img/headset.svg" class="img">
+              <!--href="#" data-ix="madal-infoline"-->
+              <span class="w-inline-block info"><img width="50" src="assets/img/headset.svg" class="img">
                 <div class="text">Таргетированная реклама и лидогенерация</div>
-              </a><a href="#" data-ix="madal-infoline" class="btn">подробнее &gt;</a>
+              </span>
+              <!--<a href="#" data-ix="madal-infoline" class="btn">подробнее &gt;</a>-->
             </div>
           </div>
         </div>
@@ -323,9 +335,9 @@
           </div>
           <div class="w-col w-col-4 w-col-stack contacts">
             <div class="section-subheading map-contact head">Свяжитесь с нами:</div>
-            <div class="section-subheading map-contact tel">7 (495) 924-83-36</div>
+            <div class="section-subheading map-contact tel"><a href="tel:7 (495) 924-83-36" style="color:white; text-decoration:none;">7 (495) 924-83-36</a></div>
             <div class="section-subheading map-contact ss">По всем вопросам:</div>
-            <div class="section-subheading map-contact mail"> info@gbd.center</div>
+            <div class="section-subheading map-contact mail"><a href="mailto:info@gbd.center" style="color:white; text-decoration:none;">info@gbd.center</a></div>
           </div>
         </div>
       </div>

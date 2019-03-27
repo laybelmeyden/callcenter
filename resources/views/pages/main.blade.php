@@ -335,7 +335,7 @@
           </div>
           <div class="w-col w-col-4 w-col-stack contacts">
             <div class="section-subheading map-contact head">Свяжитесь с нами:</div>
-            <div class="section-subheading map-contact tel"><a href="tel:7 (495) 924-83-36" style="color:white; text-decoration:none;">7 (495) 924-83-36</a></div>
+            <div class="section-subheading map-contact tel"><a href="tel:7 (495) 924-83-36" style="color:white; text-decoration:none;">8 800 511-50-55</a></div>
             <div class="section-subheading map-contact ss">По всем вопросам:</div>
             <div class="section-subheading map-contact mail"><a href="mailto:info@gbd.center" style="color:white; text-decoration:none;">info@gbd.center</a></div>
           </div>

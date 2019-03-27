@@ -121,8 +121,8 @@
               </a>
             </div>
             <div class="w-col w-col-4 tab-column">
-              <a href="tel:7 (495) 924-83-36" class="w-inline-block adress-link"><img width="30" src="assets/img/phone_outline.svg" class="contact-img">
-                <div class="text-vac job">7 (495) 924-83-36</div>
+              <a href="tel:8 800 511-50-55" class="w-inline-block adress-link"><img width="30" src="assets/img/phone_outline.svg" class="contact-img">
+                <div class="text-vac job">8 800 511-50-55</div>
               </a>
             </div>
             <div class="w-col w-col-4 tab-column">

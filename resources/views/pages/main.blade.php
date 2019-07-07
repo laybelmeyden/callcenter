@@ -281,6 +281,13 @@
               </span>
               <!--<a href="#" data-ix="madal-infoline" class="btn">подробнее &gt;</a>-->
             </div>
+            <div class="w-col w-col-4 column1">
+              <!--href="#" data-ix="madal-infoline"-->
+              <span class="w-inline-block info"><img width="50" src="assets/img/headset.svg" class="img">
+                <div class="text">Консультирование по вопросам бизнеса. Разбор бизнес проектов. Подбор инвесторов.</div>
+              </span>
+              <!--<a href="#" data-ix="madal-infoline" class="btn">подробнее &gt;</a>-->
+            </div>
           </div>
         </div>
       </div>

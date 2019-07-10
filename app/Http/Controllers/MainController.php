@@ -33,5 +33,10 @@ class MainController extends Controller
         $message1->to($mail_admin, 'For Admin')->subject('Message from site');
      });
      return redirect('/#section-form')->with('message', 'Спасибо за обращение! Ваше сообщение успешно отправлено администратору сайта!');
-}
+      }
+      public function office()
+      {
+      
+      return view('pages.office');
+      }
 }

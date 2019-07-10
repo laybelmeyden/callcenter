@@ -210,13 +210,13 @@
           </div>
         </div>
       </div>
-      <div class="w-slider-arrow-left link-slider main">
+      <!-- <div class="w-slider-arrow-left link-slider main">
         <div data-ix="move-left" class="left-arrow">&lt;</div>
-      </div>
-      <div class="w-slider-arrow-right link-slider main _1">
+      </div> -->
+      <!-- <div class="w-slider-arrow-right link-slider main _1">
         <div data-ix="move-right" class="right-arrow"><strong class="right-arrow">&gt;</strong>
         </div>
-      </div>
+      </div> -->
       <a href="/" class="w-inline-block link-logo-main"><img width="421" src="assets/img/123124.png" class="logo-main-1">
       </a>
     </div>
@@ -241,12 +241,12 @@
       <div class="w-slider-mask mask">
         <div class="w-slide">
           <div class="w-row row-wins">
-            <div data-ix="fade-in-right-scroll-in" class="w-col w-col-4 column1">
+          <div data-ix="fade-in-right-scroll-in" class="w-col w-col-4 column1">
               <!--href="#" data-ix="madal-info" -->
               <span class="w-inline-block info"><img width="50" src="assets/img/info.svg" class="img">
-                <div class="text">Комплексные маркетинговые услуги</div>
+                <div class="text">Наши услуги</div>
               </span>
-              <!--<a href="#" data-ix="madal-info" class="btn">подробнее &gt;</a>-->
+              <a href="/office" class="btn">подробнее &gt;</a>
             </div>
             <div data-ix="fade-in-bottom-scroll-in" class="w-col w-col-4 column1">
               <!--href="#" data-ix="modal-shop"-->
@@ -290,7 +290,20 @@
             </div>
           </div>
         </div>
+        <div class="w-slide">
+          <div class="w-row row-wins">
+            <div class="w-col w-col-4 column1">
+              <!--href="#" data-ix="madal-database"-->
+              <span class="w-inline-block info"><img width="50" src="assets/img/info.svg" class="img">
+                <div class="text">Комплексные маркетинговые услуги</div>
+              <!--<a href="#" data-ix="madal-database" class="btn">подробнее &gt;</a>-->
+            </div>
+            
+            
+          </div>
+        </div>
       </div>
+     
       <div data-ix="move-left" class="w-slider-arrow-left l-arrow">
         <div class="left-arrow _1">&lt;</div>
       </div>

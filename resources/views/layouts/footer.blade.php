@@ -1,3 +1,4 @@
+
 <div class="w-section w-clearfix copyright footer">
     <div class="footer-text">Global Business Development © 2019. All rights reserved              
     <a href="https://vk.com/doc178674282_507755529?hash=7895df53b73e147d63&dl=1f42464a1d654e0606" style="    color: #9e9e9e;
